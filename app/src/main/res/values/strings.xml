@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Dictionary</string>
+    <string name="action_go">Go</string>
+    <string name="summarize_label">Word to find meaning</string>
+    <string name="summarize_hint">Enter Word or a Meaningful Sentence to find meaning</string>
+</resources>
